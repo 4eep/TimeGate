@@ -9,7 +9,7 @@
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Screenshots](#Screenshots)
-* [Fab](https://www.fab.com/ru/listings/f4f863cf-e287-4341-8411-4e996be28292)
+* [Fab](https://www.fab.com/ru/portal/listings/de1f10cb-ccae-407b-8011-70f02996aa1a)
 
 ## Description
 
@@ -39,7 +39,7 @@ Test platform : Windows
 
 ## Installation
 
-Put the TimeGate folder in your project's Plugins folder. Or install the plugin via [Fab](https://www.fab.com/ru/listings/f4f863cf-e287-4341-8411-4e996be28292)
+Put the TimeGate folder in your project's Plugins folder. Or install the plugin via [Fab](https://www.fab.com/ru/portal/listings/de1f10cb-ccae-407b-8011-70f02996aa1a)
 If the feature is not available after installing the plugin, it is possible that the plugin has not been enabled, so please check if the plugin is enabled from Edit > Plugins.
 
 ## Usage
