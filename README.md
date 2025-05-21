@@ -2,7 +2,7 @@
 
 ![Screenshot_2](https://github.com/user-attachments/assets/4d006964-c79c-494a-a832-200de1bed5c9)
 
-* [Exmple Project](https://github.com/4eep/TimeGate/releases/download/ue5.4/Example.Project.zip)
+* [Example Project](https://github.com/4eep/TimeGate/releases/download/ue5.4/Example.Project.zip)
 * [Description](#Description)
 * [Important](#Important)
 * [Requirement](#Requirement)
